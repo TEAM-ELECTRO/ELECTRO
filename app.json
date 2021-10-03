@@ -1,0 +1,55 @@
+{
+    "name": "Electro UserBot",
+    "description": "A Smooth & Fast Telegram Userbot Based On Telethon Bot ",
+    "logo": "https://te.legra.ph/file/3afacc4cca825e7775f82.jpg",
+"keywords": [
+        "Telethon",
+        "telegram",
+        "userbot",
+        "python",
+        "Electro"
+    ],
+    "repository": "https://github.com/TeamElectro/Electro",
+    "success_url": "https://t.me/TheElectro",
+    "stack": "container",
+    "env": {
+        "API_ID": {
+            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "value": "", 
+            "required": false
+        },
+        "API_HASH": {
+            "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
+            "value": "",
+            "required": false
+        },
+        "SESSION": {
+            "description": "Your session string. Can be added now, or after deploy. (The bot will NOT work without a session string!!)",
+            "value": ""
+        },
+        "REDIS_URI": {
+            "description": "Redis endpoint URL, from redislabs.com",
+            "value": ""
+        },
+        "REDIS_PASSWORD": {
+            "description": "Redis endpoint password, from redislabs.com",
+            "value": ""
+        },
+        "HEROKU_API": {
+            "description": "Heroku API token. Mandatory for Heroku Deploy...",
+            "value": "",
+            "required": false
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Name of your Heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
+            "value": "",
+            "required": false
+        }
+    },
+    "formation": {
+        "Electro": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
