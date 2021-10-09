@@ -1,7 +1,0 @@
-# Electro - UserBot
-# Copyright (C) 2021 TeamElectro
-#
-# This file is a part of < https://github.com/TeamElectro/Electro/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/TeamElectro/Electro/blob/main/LICENSE/>.
-
-bash resources/session/session.sh
