@@ -11,11 +11,11 @@
 
 
 
-<h1 align="center"> 🇮🇳 THE ELECTRO-UB 🇮🇳 </h1>
+<h1 align="center"> 🇮🇳 ELECTRO-UB 🇮🇳 </h1>
 
 <h2 align="center"> <a href="https://t.me/ELECTROBOT_UPDATES">💥 ELECTRO-UB 💥</a></h2>
 
-- This is a simple userbot made by [CyberKing](https://t.me/itz_cyberking_Xd)for telegram. 
+- This is a simple userbot made by [CyberKing](https://t.me/itz_cyberking_Xd) for telegram. 
 
  - You can deploy your own [ELECTRO-UB](https://github.com/TEAM-ELECTRO/ELECTRO) and use it.
 
@@ -32,7 +32,7 @@
 
 
 
-[![ELECTRO-UB](https://te.legra.ph/file/0bec796b878f160820ea3.mp4)](https://t.me/ELECTROBOT_Support)
+[![ELECTRO-UB](https://te.legra.ph/file/3afacc4cca825e7775f82.jpg)](https://t.me/ELECTROBOT_Support)
 
 <details>
 
