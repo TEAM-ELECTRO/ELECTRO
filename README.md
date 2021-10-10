@@ -11,7 +11,7 @@
 
 
 
-<h1 align="center"> 🇮🇳 ELECTRO-UB 🇮🇳 </h1>
+<h1 align="center"> 🇮🇳 THE ELECTRO-USERBOT 🇮🇳 </h1>
 
 <h2 align="center"> <a href="https://t.me/ELECTROBOT_UPDATES">💥 ELECTRO-UB 💥</a></h2>
 
