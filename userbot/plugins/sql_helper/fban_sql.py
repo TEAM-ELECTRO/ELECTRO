@@ -1,5 +1,5 @@
 from sqlalchemy import Column, String
-from AuraXBot.plugins.sql_helper import SESSION, BASE
+from ElectroBot.plugins.sql_helper import SESSION, BASE
 
 
 class fban(BASE):
