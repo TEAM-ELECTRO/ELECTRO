@@ -1,5 +1,5 @@
 [![ITZ-CyberKing - ELECTRO-UB](https://img.shields.io/static/v1?label=ITZ-CYBERKING&message=ELECTRO&color=blue&logo=github)](https://github.com/TEAM-ELECTRO/ELECTRO)
-[![stars - ELECTRO-UB](https://img.shields.io/github/stars/TEAM-ELECTRO/Dark-ELECTRO?style=social)](https://github.com/TEAM-ELECTRO/ELECTRO)
+[![stars - ELECTRO-UB](https://img.shields.io/github/stars/TEAM-ELECTRO/ELECTRO?style=social)](https://github.com/TEAM-ELECTRO/ELECTRO)
 [![forks - ELECTRO-UB](https://img.shields.io/github/forks/TEAM-ELECTRO/ELECTRO?style=social)](https://github.com/TEAM-ELECTRO/ELECTRO)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TEAM-ELECTRO/ELECTRO/dashboard?branch=master)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
